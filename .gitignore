@@ -1,4 +1,5 @@
 profile/
 shell/
+module-fedeation-*/
 .env
 **/node_modules/

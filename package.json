@@ -3,7 +3,8 @@
   "private": true,
   "workspaces": [
     "shell",
-    "profile"
+    "profile",
+    "module-federation-*"
   ],
   "scripts": {
     "start": "concurrently \"wsrun --parallel start --open\""
